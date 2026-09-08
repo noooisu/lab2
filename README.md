@@ -13,7 +13,7 @@
   > The goal of this machine learning task is to classify the species of an Iris flower based on its physical measurements: sepal length, sepal width, petal length, and petal width. This is a multi-class classification problem where the model learns the relationship between numerical features and species labels to accurately categorize new samples.
 
 ## 3. Methodology Diagram
-![Methodology Diagram](Methodology_digram.ping.JPG)
+![Methodology Diagram](Methodology_digram.ping.JPG.jpeg)
 
 ## 4. Repository Files
 - `ml_lab2_noura_2250030204.ipynb`: Google Colab Notebook containing dataset loading, shape inspection, and preview.
